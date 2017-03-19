@@ -1,1 +1,1 @@
-Personal blog page
+Personal blog page repository
