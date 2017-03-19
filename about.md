@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog contains my thoughts and experiences in the technology and startup worlds. I try to share both the successes and failures, so that others can learn from both.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+To learn more about me, feel free to visit my [LinkedIn page](https://www.linkedin.com/in/tomasurbonaitis/)
