@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome, dear reader
+title: Welcome, Dear Reader
 ---
 
 Hello, internet!
