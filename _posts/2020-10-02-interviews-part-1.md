@@ -24,5 +24,7 @@ Some people decide to not apply to positions, that they don't think they're good
  
 So regardless of how it goes on the interview day, please go and interview!
 
+In the next part I'll give my overview of how to prepare for and interview and why you should do it.
+
 What about you? Are you afraid of interviews? Do you manage to enjoy them, or are they pure stress? 
 
