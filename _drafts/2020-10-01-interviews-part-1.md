@@ -3,9 +3,8 @@ layout: post
 title: Interviewing (Part 1)
 tags: interviews soft
 ---
- 
 Interviews and interviewing is always a hot and sometimes controversial topic. Most people find it annoying, but let me tell you, why you should enjoy the interviews and try to do them often!
- 
+
 I know that there are already dozens of great articles online about interviewing in general and interviewing for technical positions in particular. Still, there are so many candidates, who come unprepared (or people who don't come at all, because they're afraid), that I want to write this, in hopes that it can help more people succeed!
  
 ## Interviewing is the only way to get hired
