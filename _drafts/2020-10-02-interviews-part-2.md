@@ -4,7 +4,7 @@ title: "Interviewing: you have to prepare (Part 2)"
 tags: interviews soft 
 ---
 In [part 1]({% post_url 2020-10-01-interviews-part-1 %}) I've covered why you have to interview and why it's a good idea to do them more often. Now, let me write a little bit on why preparing for the interview is essential and (a tiny bit) on how to do it.
-  
+
 ## Interviewing is a skill
 You might be at the top of your profession, but unless you're also a celebrity - your employer-to-be does not know that. The interview process is there so that you can showcase your skills and experience and prove that you're indeed the best candidate to get the job done. Demonstrating that experience and skill is very different from actually performing the work, especially for people who are in professions, where you don't necessarily have to talk to humans daily. Even if you're in sales, selling yourself might be very different from selling whatever you're selling daily.
  
@@ -13,15 +13,15 @@ Like any other skill, to be good at interviewing, you have to practice it. The p
 * You have to go to the actual interviews. If you haven't been in an interview for 5 years, chances are you are not going to shine there.
 * Before you go to an actual interview, if you want to have higher chances of success - you have to practice before it.
  
-As an interviewer, I see a lot of people fail during the interview day simply because they're not prepared - they don't know what questions to expect, they don't know the answers to those questions, they don't know what the interviewer is expecting from them and then they're getting stressed. Most often, such interviews don't end well.
+As an interviewer, I see a lot of people fail during the interview day simply because they're not prepared - they don't know what questions to expect, how to answer those questions, or even what the interviewer is expecting from them. This usually leads to a lot of stress to the candidate and when you combine all these things - the interview rarely ends well.
  
-That's why it's very important to come prepared for all these parts.
+That's why it's very important to come prepared for all of this.
 
 ### What questions can one expect?
 A lot of big companies send the candidate a preparation email, which outlines what questions to expect. Read them carefully. Even if there's no such email - google "Company X interview questions for my profession" or "top interview questions for the profession". You'll be surprised how much info is on the internet, despite all the NDAs. Of course, most likely you won't get THAT question during your interview (and if you do get a question you know - it's probably best to tell that to your interviewer straight away - if they're calibrated - they'll know, that you've solved this problem recently). Despite that, you'll know what topics to expect and won't be caught off-guard. This also applies to the soft-skill interviews! 
 
 ### How to answer these questions?
-Now, that you know how the questions will look like, you have to get yourself ready to give the answers! For technical problems - practice makes perfect. If you're a developer - go to leetcode.com or hackerrank.com and you'll find many problems, easy and hard, waiting to be solved. 
+Now, that you know how the questions will look like, you have to get yourself ready to give the answers! For technical problems - practice makes perfect. If you're a developer - go to leetcode.com or hackerrank.com and you'll find many problems, easy and hard, waiting to be solved. If you got a preparation email from your recruiter, it quite often contains preparation material as well.
 
 Start with the easy ones, but if you're aiming for a senior position - you have to be able to crack the hard ones as well. If the hard ones seem impossible - read about the topic and the problem and more than likely you'll find a way to solve them. If the easy ones seem too easy for you - focus on speed and accuracy. Aim to create a working solution on your first try as soon as possible. 
 
