@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interviewing: you have to prepare (Part 2)"
+title: "Interviewing: you have to prepare"
 tags: interviews soft 
 ---
 In [part 1]({% post_url 2020-10-01-interviews-part-1 %}) I've covered why you have to interview and why it's a good idea to do them more often. Now, let me write a little bit on why preparing for the interview is essential and (a tiny bit) on how to do it.

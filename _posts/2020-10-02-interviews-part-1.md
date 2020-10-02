@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Interviewing: Why you should do it? (Part 1)"
+title: "Interviewing: Why you should do it?"
 tags: interviews soft
 ---
 Interviews and interviewing is always a hot and sometimes controversial topic. Most people find it annoying, but let me tell you, why you should enjoy the interviews and try to do them often!
 
 I know that there are already dozens of great articles online about interviewing in general and interviewing for technical positions in particular. Still, there are so many candidates, who come unprepared (or people who don't come at all, because they're afraid), that I want to write this, in hopes that it can help more people succeed!
  
- ![hired](/images/you-are-hired-stamp.jpg)
 ## Interviewing is the only way to get hired
 If you want to get a new job (and you should be in general open to new opportunities, unless you've just joined your current company AND you're loving it), the reality is, that you have to interview. There's no other way around it. Sure, sometimes your old friend from college will just offer you a job because he/she likes you, but these don't happen often and they never happen at top companies - regardless of how much someone adores your skills and experience - you'll have to demonstrate those during the interview process first. So, interviews are inevitable, unless you're planning to retire with your current employer (or stay jobless, when your current employer lays you off). So, if you'll have to do them, why not do them well? (and perhaps enjoy them just a little bit?)
  
